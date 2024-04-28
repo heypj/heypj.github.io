@@ -2200,7 +2200,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 1000px) {
 			#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten, #eleven, #twelve, #thirteen, #fourteen, #fifteen, #sixteen, #seventeen, #eighteen, #nineteen, #twenty, #twentyone, #twentytwo, #twentythree, #twentyfour, #twentyfive, #twentysix, #twentyseven, #twentyeight, #twentynine, #thirty, #thirtyone, #thirtytwo, #thirtythree, #thirtyfour, #thirtyfive, #thirtysix, #thirtyseven, #thirtyeight {
-				background: url("../../images/5.png") center center / cover fixed;
+				background: url("../../images/5.png") center center / cover;
 				background-size: 100% auto;
 			}
 			
@@ -2245,7 +2245,7 @@ input, select, textarea {
 
 	#intro {
 		background: url("images/pj1.png"), url("../../images/pj1.png");
-		background-size: 100% auto;
+		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
@@ -2286,7 +2286,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 			#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten, #eleven, #twelve, #thirteen, #fourteen, #fifteen, #sixteen, #seventeen, #eighteen, #nineteen, #twenty, #twentyone, #twentytwo, #twentythree, #twentyfour, #twentyfive, #twentysix, #twentyseven, #twentyeight, #twentynine, #thirty, #thirtyone, #thirtytwo, #thirtythree, #thirtyfour, #thirtyfive, #thirtysix, #thirtyseven, #thirtyeight {
-				background: url("../../images/5.png") center center / cover fixed;
+				background: url("../../images/5.png") center center / cover;
 				background-size: 100% auto;
 			}
 			
@@ -2298,7 +2298,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 480px) {
 			#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten, #eleven, #twelve, #thirteen, #fourteen, #fifteen, #sixteen, #seventeen, #eighteen, #nineteen, #twenty, #twentyone, #twentytwo, #twentythree, #twentyfour, #twentyfive, #twentysix, #twentyseven, #twentyeight, #twentynine, #thirty, #thirtyone, #thirtytwo, #thirtythree, #thirtyfour, #thirtyfive, #thirtysix, #thirtyseven, #thirtyeight {
-				background: url("../../images/5.png") center center / cover fixed;
+				background: url("../../images/5.png") center center / cover;
 				background-size: 100% auto;
 			}
 			
