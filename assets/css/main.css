@@ -2200,7 +2200,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 1000px) {
 			#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten, #eleven, #twelve, #thirteen, #fourteen, #fifteen, #sixteen, #seventeen, #eighteen, #nineteen, #twenty, #twentyone, #twentytwo, #twentythree, #twentyfour, #twentyfive, #twentysix, #twentyseven, #twentyeight, #twentynine, #thirty, #thirtyone, #thirtytwo, #thirtythree, #thirtyfour, #thirtyfive, #thirtysix, #thirtyseven, #thirtyeight {
-				background: url("../../images/5.png") center center / cover;
+				background: url("../../images/5.png") center center / cover fixed;
 				background-size: 100% auto;
 			}
 			
@@ -2251,6 +2251,57 @@ input, select, textarea {
 		background-repeat: repeat, no-repeat;
 	}
 
+	@media screen and (max-width: 1000px) {
+		#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten, #eleven, #twelve, #thirteen, #fourteen, #fifteen, #sixteen, #seventeen, #eighteen, #nineteen, #twenty, #twentyone, #twentytwo, #twentythree, #twentyfour, #twentyfive, #twentysix, #twentyseven, #twentyeight, #twentynine, #thirty, #thirtyone, #thirtytwo, #thirtythree, #thirtyfour, #thirtyfive, #thirtysix, #thirtyseven, #thirtyeight {
+			background: url("../../images/5.png") center center / cover fixed;
+			background-size: 100% auto;
+		}
+		
+		#footer {
+			-moz-flex-direction: column;
+			-webkit-flex-direction: column;
+			-ms-flex-direction: column;
+			flex-direction: column;
+			-moz-justify-content: center;
+			-webkit-justify-content: center;
+			-ms-justify-content: center;
+			justify-content: center;
+			line-height: 1.5em;
+			text-align: center;
+			padding: 2em 1em 2em 1em;
+		}
+
+			#footer > * {
+				margin: 0 0 1em 0;
+			}
+
+	}
+
+	@media screen and (max-width: 1000px) {
+
+		#intro {
+			background: url("images/pj1b.png"), url("../../images/pj1b.png");
+			background-size: 100% auto;
+		}
+	}
+
+	@media screen and (max-width: 736px) {
+
+		#intro {
+			background: url("images/pj1b.png"), url("../../images/pj1b.png");
+			background-size: 100% auto;
+		}
+	}
+
+	@media screen and (max-width: 480px) {
+
+		#intro {
+			background: url("images/pj1b.png"), url("../../images/pj1b.png");
+			background-size: 100% auto;
+		}
+	}
+
+
 /* One */
 #one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten, #eleven, #twelve, #thirteen, #fourteen, #fifteen, #sixteen, #seventeen, #eighteen, #nineteen, #twenty, #twentyone, #twentytwo, #twentythree, #twentyfour, #twentyfive, #twentysix, #twentyseven, #twentyeight, #twentynine, #thirty, #thirtyone, #thirtytwo, #thirtythree, #thirtyfour, #thirtyfive, #thirtysix, #thirtyseven, #thirtyeight {
     background: url("../../images/one.png") center center / cover fixed;
@@ -2286,7 +2337,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 			#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten, #eleven, #twelve, #thirteen, #fourteen, #fifteen, #sixteen, #seventeen, #eighteen, #nineteen, #twenty, #twentyone, #twentytwo, #twentythree, #twentyfour, #twentyfive, #twentysix, #twentyseven, #twentyeight, #twentynine, #thirty, #thirtyone, #thirtytwo, #thirtythree, #thirtyfour, #thirtyfive, #thirtysix, #thirtyseven, #thirtyeight {
-				background: url("../../images/5.png") center center / cover;
+				background: url("../../images/5.png") center center / cover fixed;
 				background-size: 100% auto;
 			}
 			
@@ -2298,7 +2349,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 480px) {
 			#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten, #eleven, #twelve, #thirteen, #fourteen, #fifteen, #sixteen, #seventeen, #eighteen, #nineteen, #twenty, #twentyone, #twentytwo, #twentythree, #twentyfour, #twentyfive, #twentysix, #twentyseven, #twentyeight, #twentynine, #thirty, #thirtyone, #thirtytwo, #thirtythree, #thirtyfour, #thirtyfive, #thirtysix, #thirtyseven, #thirtyeight {
-				background: url("../../images/5.png") center center / cover;
+				background: url("../../images/5.png") center center / cover fixed;
 				background-size: 100% auto;
 			}
 			
