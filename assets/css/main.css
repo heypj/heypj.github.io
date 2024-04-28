@@ -2201,6 +2201,7 @@ input, select, textarea {
 		@media screen and (max-width: 1000px) {
 			#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten, #eleven, #twelve, #thirteen, #fourteen, #fifteen, #sixteen, #seventeen, #eighteen, #nineteen, #twenty, #twentyone, #twentytwo, #twentythree, #twentyfour, #twentyfive, #twentysix, #twentyseven, #twentyeight, #twentynine, #thirty, #thirtyone, #thirtytwo, #thirtythree, #thirtyfour, #thirtyfive, #thirtysix, #thirtyseven, #thirtyeight {
 				background: url("../../images/5.png") center center / cover fixed;
+				background-size: 100% auto;
 			}
 			
 			#footer {
@@ -2286,6 +2287,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 			#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten, #eleven, #twelve, #thirteen, #fourteen, #fifteen, #sixteen, #seventeen, #eighteen, #nineteen, #twenty, #twentyone, #twentytwo, #twentythree, #twentyfour, #twentyfive, #twentysix, #twentyseven, #twentyeight, #twentynine, #thirty, #thirtyone, #thirtytwo, #thirtythree, #thirtyfour, #thirtyfive, #thirtysix, #thirtyseven, #thirtyeight {
 				background: url("../../images/5.png") center center / cover fixed;
+				background-size: 100% auto;
 			}
 			
 			#contact .box {
@@ -2297,6 +2299,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 			#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten, #eleven, #twelve, #thirteen, #fourteen, #fifteen, #sixteen, #seventeen, #eighteen, #nineteen, #twenty, #twentyone, #twentytwo, #twentythree, #twentyfour, #twentyfive, #twentysix, #twentyseven, #twentyeight, #twentynine, #thirty, #thirtyone, #thirtytwo, #thirtythree, #thirtyfour, #thirtyfive, #thirtysix, #thirtyseven, #thirtyeight {
 				background: url("../../images/5.png") center center / cover fixed;
+				background-size: 100% auto;
 			}
 			
 			#contact .box {
